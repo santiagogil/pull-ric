@@ -1,0 +1,26 @@
+{
+  "name": "pull-ric",
+  "version": "0.1.0",
+  "description": "requestIdleCallback pull through",
+  "main": "pull-ric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagogil/pull-ric.git"
+  },
+  "keywords": [
+    "requestIdleCallback",
+    "pull-stream"
+  ],
+  "author": "Santiago Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagogil/pull-ric/issues"
+  },
+  "homepage": "https://github.com/santiagogil/pull-ric#readme",
+  "dependencies": {
+    "request-idle-callback": "^1.0.2"
+  }
+}
