@@ -1,4 +1,6 @@
 # pull-ric
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/santiagogil/pull-ric.svg)](https://greenkeeper.io/)
 A pull through that works only on idle time
 
 ## Usage
